@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 384">
+          <defs>
+            <linearGradient id="cg1" x1="0" y1="0" x2="1" y2="1">
+              <stop offset="0%" stop-color="#291f17"/>
+              <stop offset="100%" stop-color="#0e0b08"/>
+            </linearGradient>
+          </defs>
+          <rect width="240" height="384" rx="12" fill="url(#cg1)"/>
+          <rect x="9" y="9" width="222" height="366" rx="8" fill="none" stroke="#d8b979" stroke-width="1.4"/>
+          <path d="M22 356V116a98 98 0 0 1 196 0v240Z" fill="none" stroke="#d8b979" stroke-width="0.85" opacity="0.62"/>
+          <text x="120" y="42" text-anchor="middle" fill="#f6e0ad" font-family="Georgia,serif" font-size="16" letter-spacing="3">I</text>
+          <circle cx="120" cy="186" r="76" fill="none" stroke="#d8b979" stroke-width="0.8" stroke-dasharray="3 5" opacity="0.5"/>
+          <circle cx="120" cy="186" r="58" fill="#06081188" stroke="#d8b979" stroke-width="1.1"/>
+          <path d="M88 156c0-11 22-11 32 0c10 11 32 11 32 0c0-11-22-11-32 0c-10 11-32 11-32 0Z" fill="none" stroke="#f6e0ad" stroke-width="2"/><line x1="120" y1="176" x2="120" y2="232" stroke="#f6e0ad" stroke-width="2.2"/><polygon points="120,168 125,179 115,179" fill="#f6e0ad"/><circle cx="92" cy="206" r="2.8" fill="#d8b979"/><circle cx="148" cy="206" r="2.8" fill="#d8b979"/>
+          <line x1="42" y1="316" x2="198" y2="316" stroke="#d8b979" stroke-width="0.7" opacity="0.55"/>
+          <text x="120" y="344" text-anchor="middle" fill="#f6e0ad" font-family="Georgia,serif" font-size="14" letter-spacing="1.4">ШИДТЭН</text>
+        </svg>

@@ -1,0 +1,156 @@
+[
+ {
+  "id": 0,
+  "file": "00.svg",
+  "mn": "Аялагч",
+  "en": "The Fool",
+  "roman": "0"
+ },
+ {
+  "id": 1,
+  "file": "01.svg",
+  "mn": "Шидтэн",
+  "en": "The Magician",
+  "roman": "I"
+ },
+ {
+  "id": 2,
+  "file": "02.svg",
+  "mn": "Дээд Зөнч",
+  "en": "The High Priestess",
+  "roman": "II"
+ },
+ {
+  "id": 3,
+  "file": "03.svg",
+  "mn": "Хатан Эх",
+  "en": "The Empress",
+  "roman": "III"
+ },
+ {
+  "id": 4,
+  "file": "04.svg",
+  "mn": "Эзэн Хаан",
+  "en": "The Emperor",
+  "roman": "IV"
+ },
+ {
+  "id": 5,
+  "file": "05.svg",
+  "mn": "Номын Багш",
+  "en": "The Hierophant",
+  "roman": "V"
+ },
+ {
+  "id": 6,
+  "file": "06.svg",
+  "mn": "Зүрхний Сонголт",
+  "en": "The Lovers",
+  "roman": "VI"
+ },
+ {
+  "id": 7,
+  "file": "07.svg",
+  "mn": "Ялалтын Тэрэг",
+  "en": "The Chariot",
+  "roman": "VII"
+ },
+ {
+  "id": 8,
+  "file": "08.svg",
+  "mn": "Дотоод Хүч",
+  "en": "Strength",
+  "roman": "VIII"
+ },
+ {
+  "id": 9,
+  "file": "09.svg",
+  "mn": "Даяанч",
+  "en": "The Hermit",
+  "roman": "IX"
+ },
+ {
+  "id": 10,
+  "file": "10.svg",
+  "mn": "Хувь Заяаны Хүрд",
+  "en": "Wheel of Fortune",
+  "roman": "X"
+ },
+ {
+  "id": 11,
+  "file": "11.svg",
+  "mn": "Шударга Үнэн",
+  "en": "Justice",
+  "roman": "XI"
+ },
+ {
+  "id": 12,
+  "file": "12.svg",
+  "mn": "Өөр Өнцөг",
+  "en": "The Hanged Man",
+  "roman": "XII"
+ },
+ {
+  "id": 13,
+  "file": "13.svg",
+  "mn": "Шинэчлэл",
+  "en": "Death",
+  "roman": "XIII"
+ },
+ {
+  "id": 14,
+  "file": "14.svg",
+  "mn": "Зохицол",
+  "en": "Temperance",
+  "roman": "XIV"
+ },
+ {
+  "id": 15,
+  "file": "15.svg",
+  "mn": "Сүүдрийн Сорилт",
+  "en": "The Devil",
+  "roman": "XV"
+ },
+ {
+  "id": 16,
+  "file": "16.svg",
+  "mn": "Аянгын Цамхаг",
+  "en": "The Tower",
+  "roman": "XVI"
+ },
+ {
+  "id": 17,
+  "file": "17.svg",
+  "mn": "Алтан Од",
+  "en": "The Star",
+  "roman": "XVII"
+ },
+ {
+  "id": 18,
+  "file": "18.svg",
+  "mn": "Нууцлаг Сар",
+  "en": "The Moon",
+  "roman": "XVIII"
+ },
+ {
+  "id": 19,
+  "file": "19.svg",
+  "mn": "Алтан Нар",
+  "en": "The Sun",
+  "roman": "XIX"
+ },
+ {
+  "id": 20,
+  "file": "20.svg",
+  "mn": "Сэрэлт",
+  "en": "Judgement",
+  "roman": "XX"
+ },
+ {
+  "id": 21,
+  "file": "21.svg",
+  "mn": "Ертөнц",
+  "en": "The World",
+  "roman": "XXI"
+ }
+]
